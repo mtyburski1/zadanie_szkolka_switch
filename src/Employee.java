@@ -59,7 +59,7 @@ public class Employee {
         }
     }
     public  void add5Employees() {
-        for (int i = 0; i < 2; i++) {
+        for (int i = 0; i < 5; i++) {
                     System.out.println("Podaj imię.");
                     firstName = sc.nextLine();
                     System.out.println("Podaj nazwisko");
